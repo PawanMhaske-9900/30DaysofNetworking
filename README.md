@@ -1,4 +1,4 @@
-# 30DaysofNetworking
+# 30DaysofNetworkingMastery
 Let's learn the networking from basic to Intermediate level.
 # NEVERSTOPLEARNING
 
