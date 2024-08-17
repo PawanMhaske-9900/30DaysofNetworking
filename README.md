@@ -1,5 +1,7 @@
-# 30DaysofNetworkingMastery
+# 30DaysofNetworking
 Let's learn the networking from basic to Intermediate level.
+Essential Insights for DevOps Beginners
+
 # NEVERSTOPLEARNING
 
 
