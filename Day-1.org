@@ -2,10 +2,16 @@ Welcome to the Day-1 of 30DaysofNetworking 🌐
 #+DATE: 2024-08-18
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
-/Before moving for Networking History/
+/Before moving for Networking History Let's start with the..../
 
 * History of Communication
 
+- In ancient times people used to draw cave paintings the oldest known cave painting is located within Chauvet Cave.
+- Later the Petroglyphs became the medium of communication.
+- In an around 9000 BCE the Pictograms were developed which is a symbol representing a concept, object, activity, place or event by illustration.
+- After some time the Pictograms(Pictograph) evolved into ideograms, graphical symbols that represent an idea.
+- Then evolve writing The oldest-known forms of writing were primarily logographic in nature, based on pictographic and ideographic elements. 
+- 
 
 
 
