@@ -1,8 +1,14 @@
 Welcome to the Day-1 of 30DaysofNetworking 🌐
-
+#+DATE: 2024-08-18
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
-* History of Networking
+/Before moving for Networking History/
+
+* History of Communication
+
+
+
+
 
 
 
