@@ -11,10 +11,75 @@ Welcome to the Day-1 of 30DaysofNetworking 🌐
 - In an around 9000 BCE the Pictograms were developed which is a symbol representing a concept, object, activity, place or event by illustration.
 - After some time the Pictograms(Pictograph) evolved into ideograms, graphical symbols that represent an idea.
 - Then evolve writing The oldest-known forms of writing were primarily logographic in nature, based on pictographic and ideographic elements. 
-- 
+- Later the alphabet came into existence.
+- Storytelling which is Verbal communication is one of the earliest forms of human communication.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
+* History of Telecommunication
 
+1. Pre-Electric Communication:
+
+    26–37 CE: Roman Emperor Tiberius signals with metal mirrors.
+    1520: Magellan's ships signal with cannon and flags.
+    1792: Claude Chappe invents the semaphore telegraph.
+
+2. Telegraph:
+
+    1792: First long-distance semaphore telegraph line.
+    1831: Joseph Henry builds an electric telegraph.
+    1836: Samuel Morse develops Morse code.
+    1843: Morse builds the first long-distance electric telegraph line.
+
+3. Landline Telephone:
+
+    1876: Bell and Watson exhibit an electric telephone.
+    1889: Strowger patents direct dial.
+
+3. Phonograph:
+
+    1877: Edison patents the phonograph.
+    1997: ELP offers the first commercial laser turntable.
+
+4. Radio and Television:
+
+    1920: KDKA radio station begins broadcasting.
+    1925: Baird transmits the first TV signal.
+    1947: Full-scale commercial TV broadcasting begins.
+    1963: First geosynchronous communication satellite launched.
+    1999: Sirius Satellite Radio introduced.
+
+5. Fax:
+
+    1843: Patent for "Electric Printing Telegraph."
+    1964: First modern fax machine available.
+
+6. Mobile Telephone:
+
+    1947: Bell Labs proposes cellular phone concept.
+    1981: First automatic mobile phone service.
+    1992: First SMS sent.
+    2007: iPhone launched.
+    2019: First 5G networks launched.
+
+7. Computers and Internet:
+
+    1946: ENIAC, the first general-purpose digital computer.
+    1969: ARPANET, the ancestor of the Internet, is connected.
+    1989: Berners-Lee develops the World Wide Web.
+    1991: First optical fiber data transmission at 32 Gbps.
+    1993: Mosaic, the first graphical web browser, is launched.
+    2004: Facebook launched.
+    2007: iPhone launched.
+    2010: Instagram launched.
+    2015: Discord launched.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+/After exploring the History of Communication and Telecommunication, let's dive into the History and Introduction of Computer Networking./
+
+* introduction
 
 
 
