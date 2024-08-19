@@ -83,8 +83,34 @@ Welcome to the Day-1 of 30DaysofNetworking 🌐
 
 * introduction
 
+** What is Network ?
+Dictionary defines the word Network i.e. "/a group or system of interconnected people or things./" Similarly, 
+in Computer world the term /network/ means two or more connected computers that can share resources such as data, pictures, applications and etc
+
 [[Netwokingimages/39aa1668-81ff-42d1-b49d-6eaf1c82bb6d.jpg]]
 
+In the above picture we can say that the two computers/hosts connected to each other sharing files and computer 2 (host 2) is connected to the printer. These two computers/hosts "talk" to each other in binary language that comprises of 0s & 1s
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+* History of Networks
+
+- 1958: The Bell 101 modem, the first commercial modem, allowed digital data transmission over telephone lines at 110 bit/s, crucial for the U.S. military’s SAGE radar system.
+- 1959: Christopher Strachey and John McCarthy initiated early time-sharing concepts. McCarthy’s work led to the creation of the first time-sharing systems.
+- 1959: Anatoly Kitov proposed a Soviet computing network for military and economic control, which was rejected.
+- 1960: SABRE, the airline reservation system, went online with connected mainframes.
+- 1963: J.C.R. Licklider proposed the "Intergalactic Computer Network" concept for general computer communications.
+- 1965: Western Electric introduced the first computer-controlled telephone switch.
+- 1960s: Paul Baran and Donald Davies independently developed the concept of packet switching, foundational for data communication networks.
+- 1969:  The first four nodes of ARPANET were connected, marking the start of what would become the internet.
+- 1973: The French CYCLADES network and Peter Kirstein’s work at UCL were key milestones in developing internetworking concepts.
+- 1974: Vint Cerf and Bob Kahn published a seminal paper on internetworking, introducing TCP/IP, and coining the term "Internet."
+- 1976-77: Ethernet was developed and became an open standard, significantly impacting local computer networks.
+- 1980-1998: Ethernet speeds increased from 10 Mbit/s to 1 Gbit/s, contributing to its widespread adoption and scalability.
+
+This summary captures the evolution of key technologies and concepts that laid the foundation for modern computer networks and the internet.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
