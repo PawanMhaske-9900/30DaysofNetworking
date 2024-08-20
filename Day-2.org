@@ -5,25 +5,25 @@ Computer network is a group of computer connected with each other through rules,
 
 * Components of Networking :
 
-1. ** Clients :  Devices that users access the network with e.g. workstation, laptops, tablets, & smartphones.
+1. Clients :  Devices that users access the network with e.g. workstation, laptops, tablets, & smartphones.
 
 [[Netwokingimages/8a9b1ab8a7205c7964388aab9388bdcd.jpg]]
 
 
-2. ** Servers:   Provide resources to the network eg. email servers, file servers, web servers and many others. 
+2. Servers:   Provide resources to the network eg. email servers, file servers, web servers and many others. 
                  These servers can exist on hardware devices or they can rely on specialized software that allows
                  a device to act as a server for other clients on a network.
 
 [[Netwokingimages/server-image-1-(1).jpg]]
 
 
-3. ** Hubs : Older network device that connect other devices like clients and servers over a Local Area Network.
+3. Hubs : Older network device that connect other devices like clients and servers over a Local Area Network.
              It is a Layer 1 device
 
 [[Netwokingimages/hub.jpg]]
 
 
-4. ** Switches : Switches connect multiple segments of a network together much like hubs do, but with
+4. Switches : Switches connect multiple segments of a network together much like hubs do, but with
                  three significant differences—a switch recognizes frames and pays attention to the source
                  and destination MAC address of the incoming frame as well as the port on which it was received.
 
