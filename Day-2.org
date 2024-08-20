@@ -22,6 +22,13 @@
 
 
 
+- Bridges : A bridge—specifically, a transparent bridge—is a network device that connects two similar network segments together.
+          - Its primary function is to keep traffic separated on either side of the bridge, breaking up collision domains.
+
+[[Netwokingimages/What-is-a-Network-Bridge-Diagram.jpg]]
+
+
+
 - Switches: Switches connect multiple segments of a network together, much like hubs do, but with three significant differences:
    - A switch recognizes frames and pays attention to the source and destination MAC addresses of the incoming frame, as well as the port on which it was received.
    - A switch makes each of its ports a unique, singular collision domain, whereas hubs do not.
@@ -43,6 +50,13 @@
          -  It works on Layer 3 i.e. Network Layer.
 
 [[Netwokingimages/network-router-500x500.jpg]]
+
+
+
+- Firewalls: Firewalls are your network’s security guards.
+          -  A firewall can be either a stand-alone “black box” or a software implementation placed on a server or router.
+
+[[Netwokingimages/firewall-1.jpg]]
 
 
 
