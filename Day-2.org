@@ -2,25 +2,57 @@
 
   Computer networks are groups of computers connected with each other through cables, optical fibers, or wireless links so that various devices can interact with each other through the network.
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 * Components of Networking:
 
 1. Clients: Devices that users access the network with, e.g., workstations, laptops, tablets, and smartphones.
 
    [[Netwokingimages/8a9b1ab8a7205c7964388aab9388bdcd.jpg]]
 
+
 2. Servers: Provide resources to the network, e.g., email servers, file servers, web servers, and many others. These servers can exist on hardware devices or rely on specialized software that allows a device to act as a server for other clients on a network.
 
    [[Netwokingimages/server-image-1-(1).jpg]]
+
 
 3. Hubs: Older network devices that connect other devices like clients and servers over a Local Area Network. Hubs operate at Layer 1 of the OSI model.
 
    [[Netwokingimages/hub.jpg]]
 
+
+
 4. Switches: Switches connect multiple segments of a network together, much like hubs do, but with three significant differences:
    - A switch recognizes frames and pays attention to the source and destination MAC addresses of the incoming frame, as well as the port on which it was received.
    - A switch makes each of its ports a unique, singular collision domain, whereas hubs do not.
    - Switches are Layer 2 devices, meaning they segment the network with MAC addresses.
-
-   A switch connects devices within a LAN (Local Area Network).
+   - A switch connects devices within a LAN (Local Area Network).
 
    [[Netwokingimages/download.jpg]]
+
+
+5. WAP (Wireless Access Points): A Wireless Access Point (WAP) is a networking device that allows connecting the devices with the wired network. 
+          - A Wireless Access Point (WAP) is used to create the WLAN (Wireless Local Area Network) 
+          - It is commonly used in large offices and buildings which have expanded businesses.
+
+[[Netwokingimages/cisco-wap121.jpg]]
+
+
+
+6. Routers: Used to connect different networks together.
+         -  It works on Layer 3 i.e. Network Layer.
+
+[[Netwokingimages/network-router-500x500.jpg]]
+
+
+
+7. NIC (Network Interface Cards): NIC is additionally called Ethernet or physical or network card.
+                      - NIC stands for Network Interface Card. It is used to connect devices to networks and can be either wired or wireless.
+                      - Network interface card address referred by a MAC address. MAC (Media Access Control ) addresses are six bytes long. Where the primary three 
+                        bytes are the merchant ID and the other three as special information.
+
+[[Netwokingimages/Network_card.jpg]]
+
+
+
+[[Netwokingimages/_f11fd90e-567d-4297-bbbf-4970a6f2be9c.png]]
