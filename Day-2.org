@@ -4,19 +4,19 @@
 
 * Components of Networking:
 
-1. **Clients**: Devices that users access the network with, e.g., workstations, laptops, tablets, and smartphones.
+1. Clients: Devices that users access the network with, e.g., workstations, laptops, tablets, and smartphones.
 
    [[Netwokingimages/8a9b1ab8a7205c7964388aab9388bdcd.jpg]]
 
-2. **Servers**: Provide resources to the network, e.g., email servers, file servers, web servers, and many others. These servers can exist on hardware devices or rely on specialized software that allows a device to act as a server for other clients on a network.
+2. Servers: Provide resources to the network, e.g., email servers, file servers, web servers, and many others. These servers can exist on hardware devices or rely on specialized software that allows a device to act as a server for other clients on a network.
 
    [[Netwokingimages/server-image-1-(1).jpg]]
 
-3. **Hubs**: Older network devices that connect other devices like clients and servers over a Local Area Network. Hubs operate at Layer 1 of the OSI model.
+3. Hubs: Older network devices that connect other devices like clients and servers over a Local Area Network. Hubs operate at Layer 1 of the OSI model.
 
    [[Netwokingimages/hub.jpg]]
 
-4. **Switches**: Switches connect multiple segments of a network together, much like hubs do, but with three significant differences:
+4. Switches: Switches connect multiple segments of a network together, much like hubs do, but with three significant differences:
    - A switch recognizes frames and pays attention to the source and destination MAC addresses of the incoming frame, as well as the port on which it was received.
    - A switch makes each of its ports a unique, singular collision domain, whereas hubs do not.
    - Switches are Layer 2 devices, meaning they segment the network with MAC addresses.
