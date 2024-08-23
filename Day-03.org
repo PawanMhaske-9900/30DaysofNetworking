@@ -1,0 +1,58 @@
+**  Components of Networking
+
+* NIC - Network Interface Card
+
+[[Netwokingimages/Network_card.jpg]]
+
+- NIC stands for (Network Interface Card) is additionally called Ethernet or physical or Network card.
+- It provides the physical, electrical, and electronic connections to the network media.
+- The NIC is both a physical layer and data link layer device, as it provides physical access to a networking medium 
+- And for IEEE 802 (Wi-fi) and similar networks, provides a low-level addressing system through the use of MAC addresses that are uniquely assigned to network interfaces.
+- The NIC is Layer 2 device because the information it uses for communication, the MAC address, resides on the Data Link layer.
+- NIC is important for us to establish a wired and wireless connection over network.
+- Usually indicates the speed of the connection: 10, 100, or 1000Mbps.
+- A NIC either is an expansion card or is built right into the computer’s motherboard. but in today's period the NIC is usually in-built into Computer's Motherboard.
+- NIC adapters can be connected to the USB port or through a PC card slot.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+*** /Note : NICs today usually have one, two, or more LEDs; one, usually green, is called a link light, indicating that an Ethernet connection has been established with the device on the
+       other end of the cable, and it flickers when traffic is being passed back or forth./
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+** Types of Network Interface Cards
+
+1. Wired NICs ( Ethernet NIC ) :
+   - Created by Robert MetCalfe in 1980s.
+   - This types of NICs uses cables to connect to the networks.
+   - It is more secure than wireless NIC.
+   - It is used in LAN, MAN, WAN and Gaming environment.
+
+Example: [[Netwokingimages/51jZwFkV0DL.jpg]]
+
+2. Wireless NICs :
+   - Uses radio signals to connect to the network.
+   - Commonly use for Wi-fi connections.
+   - Portable and built it into devices like laptops & Phones.
+
+Example: [[Netwokingimages/laptop-parts.jpg]]
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+** Advantages and Disadvantages of NIC
+Advantages:
+- The communication speed utilizing the Web is high ordinarily in Gigabytes.
+- Highly dependable connection.
+- Many peripheral gadgets can be associated with utilizing numerous ports of NIC cards.
+- Bulk information can be shared among numerous clients.
+
+Disadvantages:
+- Badly arranged in case of wired cable NIC, because it isn’t versatile like a remote router
+- The arrangement ought to be appropriate for superior communication.
+- Data is unsecured.
+
+
+[[Netwokingimages/_f11fd90e-567d-4297-bbbf-4970a6f2be9c.png]]
+
+
+Reference: https://en.wikipedia.org/wiki/Network_interface_controller
