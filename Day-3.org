@@ -16,14 +16,14 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-*** /Note : NICs today usually have one, two, or more LEDs; one, usually green, is called a link light, indicating that an Ethernet connection has been established with the device on the
+/Note : NICs today usually have one, two, or more LEDs; one, usually green, is called a link light, indicating that an Ethernet connection has been established with the device on the
        other end of the cable, and it flickers when traffic is being passed back or forth./
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ** Types of Network Interface Cards
 
-1. Wired NICs ( Ethernet NIC ) :
+- Wired NICs ( Ethernet NIC ) :
    - Created by Robert MetCalfe in 1980s.
    - This types of NICs uses cables to connect to the networks.
    - It is more secure than wireless NIC.
@@ -31,7 +31,7 @@
 
 Example: [[Netwokingimages/51jZwFkV0DL.jpg]]
 
-2. Wireless NICs :
+- Wireless NICs :
    - Uses radio signals to connect to the network.
    - Commonly use for Wi-fi connections.
    - Portable and built it into devices like laptops & Phones.
