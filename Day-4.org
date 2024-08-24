@@ -1,0 +1,47 @@
+** Network Connectivity Devices
+
+* Hubs
+
+[[Netwokingimages/cap1-6_html_26b15f7d.jpg]]
+
+- A Hub is a hardware device which is used to connect multiple devices in network.
+- It is a Layer 1 (Physical Layer) device.
+- It is widely connect the LANs.
+- Hub have 4/12 ports.	
+- A hub cannot filter data like Switches.
+- Also cannot identify the destination packets.
+- so it simply sends the messege to other port/node. so that Carrier Sense Multiple Access with Collision Detection (CSMA/CD) on the transmitter can monitor for collisions. 
+- Each device in the network connects directly to the hub through a single cable and is used to connect multiple devices without segmenting a network.
+- A typical hub as you might fi nd it employed within a small network. 
+
+[[Netwokingimages/HUB diagram.png]]
+
+- In the above diagram we can see that the both the users can send the messeges to each other over the LAN using HUB.
+- Hubs can't identify specific packets, so messages sent by one user are broadcasted to all users. This lack of security and efficiency makes hubs unsuitable for modern corporate networks.
+
+
+/Note: In the hub, data is sent to all ports but each port accepts only that data whose destination address matches their MAC address. /
+
+** Features of Hub
+- It supports half-duplex transmission
+- It works with shared bandwidth and broadcasting.
+- The hub can provide a high data transmission rate to different devices. 
+- It can detect collisions in the network and send the jamming signal to each port. 
+- Hub does not support Virtual LAN(VLAN) and spanning tree protocol.
+- It is unable to filter the data and hence transmit or broadcast it to each port. 
+- It cannot find the best route/ shortest path to send any data, which makes it an inefficient device. 
+
+
+** Advantages and Disadvantages of hubs
+Advantages:
+- It is less expensive.
+- It does not impact network performance. 
+- Hub support different network media.
+
+Disadvantages:
+- It cannot find the best/ shortest path of the network. 
+- No mechanism for traffic detection. 
+- No mechanism for data filtration. 
+- Not capable of connecting to different network topologies like token ring, ethernet, etc. 
+
+[[Netwokingimages/_f11fd90e-567d-4297-bbbf-4970a6f2be9c.png]]
