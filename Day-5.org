@@ -1,0 +1,45 @@
+** Network Connectivity Devices
+
+* Bridges
+
+[[Netwokingimages/Network-Bridge-Front.jpg]]
+
+- Connects two similar network together.
+- We also say that it uses to connect multiple LANs togther with a larger Local Area Network (LAN).
+- Its primary function is to keep traffic separated on either side of the bridge, breaking up collision domains.
+- The main reasons you would place a bridge in your network would be to connect two segments together or to divide a busy network into two segments. 
+- It uses MAC addresses to make forwarding decisions.
+- It is a Data-Link (Layer 2) layer device.
+
+[[Netwokingimages/What-is-a-Network-Bridge-Diagram.jpg]]
+
+
+** How bridges 
+- Get data packets from both sides network segments.
+- Creats the table of MAC address for incoming networks.
+- If the data packets are meant to sent on the segment A then it does not forwarding it to another segment.
+- If the data packets are meant to sent to segment B from segment A then it will reach to the segment B.
+
+
+** Functions of Bridges in the Network 
+- The bridge is used to divide LANs into multiple segments.
+- To control the traffic in the network.
+- It can interconnect two LANs with a similar protocols. 
+- It can filter the data based on destination/MAC address. 
+
+** Advantages
+- Bridges can be used as a network extension like they can connect two network topologies together. 
+- It has a separate collision domain, which results in increased bandwidth. 
+- It can create a buffer when different MAC protocols are there for different segments. 
+- Highly reliable and maintainable. The network can be divided into multiple LAN segments. 
+- Simple installation, no requirement of any extra hardware or software except the bridge itself. 
+- Protocol transparency is higher as compared to other protocols. 
+
+Disadvantages
+- Expensive as compared to hubs and repeaters.
+- Slow in speed. 
+- Poor performance as additional processing is required to view the MAC address of the device on the network. 
+- As the traffic received is in bulk or is broadcasted traffic, individual filtering of data is not possible. 
+- During the broadcasting of data, the network has high broadcast traffic and broadcast storms can be formed. 
+
+[[Netwokingimages/_f11fd90e-567d-4297-bbbf-4970a6f2be9c.png]]
