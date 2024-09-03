@@ -12,9 +12,27 @@
 - As switches use MAC addresses to make forwarding decisions, they are considered Layer 2 devices. 
 
 
-*Note:  Switches are Layer 2 devices, which means they segment the network with MAC addresses. If you see the term Layer 3 switch , that means you are
-talking about a router, not a Layer 2 switch. The terms router and Layer 3 switch are interchangeable.*
+/*Note:  Switches are Layer 2 devices, which means they segment the network with MAC addresses. If you see the term Layer 3 switch , that means you are
+talking about a router, not a Layer 2 switch. The terms router and Layer 3 switch are interchangeable.*/
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**How switches Works ?
+[[Netwokingimages/switches.png]]
+
+1. When the source wants to send the data packet to the destination:
+   - The packet first enters the switch.
+   - The switch reads the packet's header.
+   - The switch finds the MAC address of the destination to identify the device.
+   - The switch sends the packet out through the appropriate ports that lead to the destination device.
+
+2. The switch establishes a temporary connection between the source and destination for communication.
+
+3. The switch terminates the connection once the conversation is done.
+
+4. The switch offers full bandwidth to network traffic going to and from a device simultaneously to reduce collision.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Advantages and Disadvantage of Switches
 
@@ -27,7 +45,7 @@ Advantages and Disadvantage of Switches
    - It can not stop traffic destined for a different LAN segment from traveling to all other LAN segments.
    - Switches are more expensive.
 
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ** Network switch vs Hub
 
