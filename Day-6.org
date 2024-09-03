@@ -16,6 +16,19 @@
 talking about a router, not a Layer 2 switch. The terms router and Layer 3 switch are interchangeable.*
 
 
+Advantages and Disadvantage of Switches
+
+- Advantages:
+   - Prevents traffic overloading in a network by segmenting the network into smaller subnets.
+   - Increases the bandwidth of the network.
+   - Less frame collision as the switch creates the collision domain for each connection.
+
+- Disadvantages:
+   - It can not stop traffic destined for a different LAN segment from traveling to all other LAN segments.
+   - Switches are more expensive.
+
+
+
 ** Network switch vs Hub
 
 | Network Switch                                             | Hub                                           |
@@ -25,3 +38,8 @@ talking about a router, not a Layer 2 switch. The terms router and Layer 3 switc
 | Network Switch easily manages data in and out, hence less communication collision. | Communication Collisions usually happen in a Hub. |
 | Network Switches transfer data together by connecting devices. | The main task of Hub is to connect all nodes of the network. |
 | Switches prevent collision with the help of Ethernet frames. | Hubs cannot help in preventing collisions.    |
+
+
+
+[[Netwokingimages/_f11fd90e-567d-4297-bbbf-4970a6f2be9c.png]]
+
