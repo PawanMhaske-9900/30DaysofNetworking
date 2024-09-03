@@ -1,0 +1,27 @@
+** Network Connectivity Devices
+
+* Switches
+
+[[Netwokingimages/mobile_switches.png]]
+
+- Switches connect multiple segments of a network together much like hubs.
+- Switches are also known as 'Smarter Hubs'
+- It is responsible for filtering and forwarding the packets between LAN segments based on MAC address. 
+- A switch recognizes frames and pays attention to the source and destination MAC address of the incoming frame as well as the port on which it was received.
+- A switch makes each of its ports a unique, singular collision domain.
+- As switches use MAC addresses to make forwarding decisions, they are considered Layer 2 devices. 
+
+
+/ Note:  Switches are Layer 2 devices, which means they segment the network with MAC addresses. If you see the term Layer 3 switch , that means you are
+talking about a router, not a Layer 2 switch. The terms router and Layer 3 switch are interchangeable. /
+
+
+** Network switch vs Hub
+
+| Network Switch                                             | Hub                                           |
+|------------------------------------------------------------|-----------------------------------------------|
+| Network Switch is a device of layer 2 of the OSI Model.    | Hub is a physical device of Layer 1 of the OSI Model. |
+| Network Switch is a little more complex than a Hub.        | Hub is a simple device as compared to Network Switch. |
+| Network Switch easily manages data in and out, hence less communication collision. | Communication Collisions usually happen in a Hub. |
+| Network Switches transfer data together by connecting devices. | The main task of Hub is to connect all nodes of the network. |
+| Switches prevent collision with the help of Ethernet frames. | Hubs cannot help in preventing collisions.    |
