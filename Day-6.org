@@ -12,8 +12,8 @@
 - As switches use MAC addresses to make forwarding decisions, they are considered Layer 2 devices. 
 
 
-/ Note:  Switches are Layer 2 devices, which means they segment the network with MAC addresses. If you see the term Layer 3 switch , that means you are
-talking about a router, not a Layer 2 switch. The terms router and Layer 3 switch are interchangeable. /
+*Note:  Switches are Layer 2 devices, which means they segment the network with MAC addresses. If you see the term Layer 3 switch , that means you are
+talking about a router, not a Layer 2 switch. The terms router and Layer 3 switch are interchangeable.*
 
 
 ** Network switch vs Hub
